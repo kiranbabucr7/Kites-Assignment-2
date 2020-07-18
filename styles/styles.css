@@ -1,16 +1,7 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
-/* section2 */
-.s2-banner{
-    min-height: 500px;
-    background-image: url("/assets/banner-img1");
-    background-color: #cccccc;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width:100%;
-}
+
 /* logo */
 .logo{
     width: 200px;
@@ -40,9 +31,23 @@
     border-top-width: 3px;
     border-top-color: rgb(205, 41, 59);
 }
+/* section2 */
+.s2-banner{
+    min-height:700px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/banner-img1.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+}
 /* utils */
 .text-w{
     color: rgb(255, 255, 255);
+}
+.text-r{
+    font-weight: 1000;
+    color: rgb(205, 41, 59);
 }
 .text-i-w{
     color: rgb(255, 255, 255);
@@ -76,6 +81,12 @@
     border-top-right-radius: 50%;
     border-bottom-right-radius: 50%;
 }
+.orange-box-5{
+    background-color: rgb(205, 41, 59);
+    width: 150px;
+    min-height: 45px;
+    border-radius: 5%;
+}
 .h-line1{
     background-color: #ffffff81;
     height: 30px;
@@ -85,4 +96,10 @@
     border-color: rgb(205, 41, 59);
     border: 0px;
     border-top: 2px;
+}
+.cirle-1{
+    width: 45px;
+    height: 45px;
+    background-color: rgb(31, 128, 255);
+    border-radius: 50%;
 }
