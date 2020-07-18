@@ -21,8 +21,8 @@
     
     <!-- Navigation Bar -->
     <section>
-      <div class="navigation-bar">
-        <nav class="navbar navbar-expand-md bg-light navbar-light fixed-top">
+      <div class="navigation-bar overflow-auto">
+        <nav class="navbar navbar-expand-md navbar-light fixed-top">
           <div class="logo ml-lg-3">
             <img class="pl-lg-5" src="http://kitesmarketing.com/wp-content/uploads/2017/02/kiteslogo-e1557900540535.png" alt="Logo">
           </div>
@@ -35,8 +35,19 @@
               <li class="nav-item">
                 <a class="nav-link pl-lg-4 pr-lg-4" href="#">Home</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link pl-lg-4 pr-lg-4" href="#">Services<span class="fa fa-chevron-down m-lg-1 font-weight-light" aria-hidden="true"></span></a>
+              <!-- Dropdown -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="#" id="navbardrop" data-toggle="dropdown">
+                  Services
+                </a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="#">Digital Marketing</a>
+                  <a class="dropdown-item" href="#">Web Development</a>
+                  <a class="dropdown-item" href="#">Design</a>
+                  <a class="dropdown-item" href="#">SEO Optimization</a>
+                  <a class="dropdown-item" href="#">Digital / Offset Printing</a>
+                  <a class="dropdown-item" href="#">Branding</a>
+                </div>
               </li>
               <li class="nav-item">
                 <a class="nav-link pl-lg-4 pr-lg-4" href="#">About Us</a>
@@ -55,10 +66,13 @@
                   <div class="orange-box-2">
                     <a href="#" class="fa fa fa-search text-i-w mt-2"></a>
                   </div>
+                  <div class="orange-box-3">
+                    <div class="h-line1 mt-2 ml-2"></div>
+                  </div>
                   <div class="orange-box-2 text-right">
                     <a href="#" class="fa fa-bars text-i-w mt-2"></a>
                   </div>
-                  <div class="orange-box-3"></div>
+                  <div class="orange-box-4"></div>
                 </div>
               </div>
             </div>
@@ -66,7 +80,8 @@
         </nav>
       </div>
     </section>
-
+    <!-- section2 -->
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
