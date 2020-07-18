@@ -30,20 +30,20 @@
 }
 .orange-box-1{
     background-color: rgb(205, 41, 59);
-    width: 67px;
+    width: 40px;
     min-height: 45px;
-    border-top-left-radius: 45%;
-    border-bottom-left-radius: 45%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
 }
 .orange-box-2{
     background-color: rgb(205, 41, 59);
-    width: 67px;
+    width: 40px;
     min-height: 45px;
 }
 .orange-box-3{
     background-color: rgb(205, 41, 59);
-    width: 67px;
+    width: 40px;
     min-height: 45px;
-    border-top-right-radius: 45%;
-    border-bottom-right-radius: 45%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
 }
