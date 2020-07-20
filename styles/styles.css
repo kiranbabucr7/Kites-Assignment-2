@@ -6,12 +6,12 @@
 .logo{
     width: 200px;
 }
-.navbar-light .navbar-nav .nav-link {
+.navbar-nav .nav-link {
     font-weight: 1000;
     color: #222222;
 }
 /* navbar */
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+.navbar-nav .nav-link:focus, .navbar-nav .nav-link:hover {
     color: rgb(205, 41, 59);
 }
 .nav-bar-2{
@@ -33,13 +33,16 @@
 }
 /* section2 */
 .s2-banner{
-    min-height:700px;
+    min-height:800px;
     background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/banner-img1.jpg");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width:100%;
+}
+.feature-1{
+    justify-content: space-around;
 }
 /* utils */
 .text-w{
@@ -85,7 +88,7 @@
     background-color: rgb(205, 41, 59);
     width: 150px;
     min-height: 40px;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 .h-line1{
     background-color: #ffffff81;
