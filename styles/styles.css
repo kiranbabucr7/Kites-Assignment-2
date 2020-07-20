@@ -84,7 +84,7 @@
 .orange-box-5{
     background-color: rgb(205, 41, 59);
     width: 150px;
-    min-height: 45px;
+    min-height: 40px;
     border-radius: 5%;
 }
 .h-line1{
@@ -98,8 +98,8 @@
     border-top: 2px;
 }
 .cirle-1{
-    width: 45px;
-    height: 45px;
+    width: 52px;
+    height: 52px;
     background-color: rgb(31, 128, 255);
     border-radius: 50%;
 }
