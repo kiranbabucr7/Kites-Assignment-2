@@ -33,7 +33,7 @@
 }
 /* section2 */
 .s2-banner{
-    min-height:800px;
+    min-height: 400px;
     background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/banner-img1.jpg");
     background-color: #cccccc;
     background-position: center;
@@ -44,6 +44,17 @@
 .feature-s{
     background-color: #3d3d3d0e;
     border-radius: 3%;
+}
+
+/* section3 */
+.about-img{
+    min-height: 600px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/about-img1.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
 }
 
 /* utils */
@@ -120,6 +131,6 @@
 .cirle-2{
     width: 90px;
     height: 90px;
-    background-color: rgba(205, 41, 59, 0.048);
+    background-color: rgb(255, 255, 255);
     border-radius: 50%;
 }
