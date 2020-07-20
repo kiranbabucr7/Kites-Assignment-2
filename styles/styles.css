@@ -41,12 +41,17 @@
     background-size: cover;
     width:100%;
 }
-.feature-1{
-    justify-content: space-around;
+.feature-s{
+    background-color: #3d3d3d0e;
+    border-radius: 3%;
 }
+
 /* utils */
 .text-w{
     color: rgb(255, 255, 255);
+}
+.text-g{
+    color: #222222;
 }
 .text-r{
     font-weight: 1000;
@@ -90,6 +95,12 @@
     min-height: 40px;
     border-radius: 10%;
 }
+.orange-box-6{
+    background-color: rgb(205, 41, 59);
+    width: 50px;
+    min-height: 40px;
+    border-radius: 10%;
+}
 .h-line1{
     background-color: #ffffff81;
     height: 30px;
@@ -104,5 +115,11 @@
     width: 52px;
     height: 52px;
     background-color: rgb(31, 128, 255);
+    border-radius: 50%;
+}
+.cirle-2{
+    width: 90px;
+    height: 90px;
+    background-color: rgba(205, 41, 59, 0.048);
     border-radius: 50%;
 }
