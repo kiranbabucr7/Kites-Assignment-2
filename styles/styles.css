@@ -59,6 +59,16 @@
 .card-link:hover {
     color: rgb(205, 41, 59);
 }
+/* section7 */
+.s7-banner{
+    min-height: 400px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/testimonials-img.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+}
 
 /* utils */
 .text-big-g{
