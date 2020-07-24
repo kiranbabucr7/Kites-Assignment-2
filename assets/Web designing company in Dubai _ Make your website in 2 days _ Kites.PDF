@@ -1,21 +1,21 @@
-<!doctype html>
-<html lang="en">
-  <head>
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Required meta tags -->
-    <meta charset="utf-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <!-- Font Awsome CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <!-- Custom Styles -->
-    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/styles.css">
     <title>Web designing company in Dubai | Make your website in 2 days | Kites</title>
     <!-- font -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/css2" rel="stylesheet">
     <!-- add icon link -->
-    <link rel = "icon" href = "http://kitesmarketing.com/wp-content/uploads/2017/07/Kites-logo-01.png" type = "image/x-icon"> 
+    <link rel="icon" href="http://kitesmarketing.com/wp-content/uploads/2017/07/Kites-logo-01.png" type="image/x-icon"> 
   </head>
   <body>
     
@@ -23,7 +23,7 @@
       
     <nav class="navbar navbar-expand-md navbar-fixed-top">
       <div class="logo ml-lg-3">
-        <img class="pl-lg-5" src="http://kitesmarketing.com/wp-content/uploads/2017/02/kiteslogo-e1557900540535.png" alt="Logo">
+        <img class="pl-lg-5" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/kiteslogo-e1557900540535.png" alt="Logo">
       </div>
       <!-- Toggler/collapsibe Button -->
       <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -32,27 +32,27 @@
       <div class="collapse navbar-collapse ml-lg-5 mr-lg-4" id="collapsibleNavbar">
         <ul class="main-nav navbar-nav ml-md-auto pr-lg-4">
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Home</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="http://127.0.0.1:5500/index.html#">Home</a>
           </li>
           <!-- Dropdown -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="#" id="navbardrop" data-toggle="dropdown">
+            <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="http://127.0.0.1:5500/index.html#" id="navbardrop" data-toggle="dropdown">
               Services
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Digital Marketing</a>
-              <a class="dropdown-item" href="#">Web Development</a>
-              <a class="dropdown-item" href="#">Design</a>
-              <a class="dropdown-item" href="#">SEO Optimization</a>
-              <a class="dropdown-item" href="#">Digital / Offset Printing</a>
-              <a class="dropdown-item" href="#">Branding</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">Digital Marketing</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">Web Development</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">Design</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">SEO Optimization</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">Digital / Offset Printing</a>
+              <a class="dropdown-item" href="http://127.0.0.1:5500/index.html#">Branding</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">About Us</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="http://127.0.0.1:5500/index.html#">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Contact Us</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="http://127.0.0.1:5500/index.html#">Contact Us</a>
           </li>
         </ul>
         <div class="d-flex mr-lg-5">
@@ -60,16 +60,16 @@
             <i class="fa fa-ellipsis-h"></i>
           </button>
           <div class="collapse navbar-collapse mr-lg-5" id="collapsibleNavbar1">
-            <div class="nav-orange-box orange-box d-flex mr-auto float-right">
+            <div class="orange-box d-flex mr-auto float-right">
               <div class="orange-box-1"></div>
               <div class="orange-box-2">
-                <a href="#" class="fa fa fa-search text-i-w mt-2"></a>
+                <a href="http://127.0.0.1:5500/index.html#" class="fa fa fa-search text-i-w mt-2"></a>
               </div>
               <div class="orange-box-3">
                 <div class="h-line1 mt-2 ml-2"></div>
               </div>
               <div class="orange-box-2 text-right">
-                <a href="#" class="fa fa-bars text-i-w mt-2"></a>
+                <a href="http://127.0.0.1:5500/index.html#" class="fa fa-bars text-i-w mt-2"></a>
               </div>
               <div class="orange-box-4"></div>
             </div>
@@ -81,7 +81,7 @@
 
     <!-- section2 Intro-->
     <section>
-      <div >
+      <div class="">
         <div class="container-fluid">
           <div class="row">
             <div class="col-lg-6 mb-5">
@@ -94,7 +94,7 @@
                       <div class="mt-2">
                         <p style="font-size: 50px; font-weight: 800; font-stretch: ultra-expanded;line-height: 1.2;">Customer Satisfaction Is Our Motto And We Provide Best Digital Marketing Solutions</p>
                       </div>
-                      <div class="mt-5 ">
+                      <div class="mt-5 text-g">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                       </div>
                       <div class="mt-5">
@@ -140,7 +140,7 @@
                 <p style="font-size: 50px; font-weight: 800; font-stretch: ultra-expanded; line-height: 1.2;">Let’s Check Our Featured Services</p>
               </div>
               <div class="mt-4 ml-md-5 mr-md-5">
-                <p class=" text-bold">We are the one of the most effective Web Design Companies</p>
+                <p class="text-g text-bold">We are the one of the most effective Web Design Companies</p>
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@
             <div class="row">
               <div class="col-md-4 text-left text-md-center">
                 <div class="feature-s m-2">
-                  <div  class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
+                  <div class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
                     <div class="mt-3 cirle-2 d-flex justify-content-center">
                       <i class="fa fa-bar-chart fa-3x m-4" aria-hidden="true"></i>
                     </div>
@@ -157,7 +157,7 @@
                     <p class="text-r text-bold">Marketing Analysis</p>
                   </div>
                   <div class="mt-4 ml-3 ml-md-0">
-                    <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                   </div>
                   <div class="btn d-flex justify-content-start justify-content-md-center mt-5 pb-4">
                     <div class="orange-box-6 text-center text-w">
@@ -171,7 +171,7 @@
               </div>
               <div class="col-md-4 text-left text-md-center">
                 <div class="feature-s m-2">
-                  <div  class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
+                  <div class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
                     <div class="mt-3 cirle-2 d-flex justify-content-center">
                       <i class="fa fa-rocket   fa-3x m-4" aria-hidden="true"></i>
                     </div>
@@ -180,7 +180,7 @@
                     <p class="text-r text-bold">Website Optimizations</p>
                   </div>
                   <div class="mt-4 ml-3 ml-md-0">
-                    <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                   </div>
                   <div class="btn d-flex justify-content-start justify-content-md-center mt-5 pb-4">
                     <div class="orange-box-6 text-center text-w">
@@ -194,7 +194,7 @@
               </div>
               <div class="col-md-4 text-left text-md-center">
                 <div class="feature-s m-2">
-                  <div  class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
+                  <div class="d-flex justify-content-start justify-content-md-center ml-3 ml-md-0 mt-4">
                     <div class="mt-3 cirle-2 d-flex justify-content-center">
                       <i class="fa fa-envelope   fa-3x m-4" aria-hidden="true"></i>
                     </div>
@@ -203,7 +203,7 @@
                     <p class="text-r text-bold">Email Marketing</p>
                   </div>
                   <div class="mt-4 ml-3 ml-md-0">
-                    <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                   </div>
                   <div class="btn d-flex justify-content-start justify-content-md-center mt-5 pb-4">
                     <div class="orange-box-6 text-center text-w">
@@ -235,7 +235,7 @@
                 <div class="m-4 m-md-0">
                   <p class="text-big-g">Let’s Check Our Featured Services</p>
                 </div>
-                <div class="m-4 m-md-0 mt-4 ">
+                <div class="m-4 m-md-0 mt-4 text-g">
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                 </div>
                 <div class="mt-4">
@@ -294,18 +294,18 @@
                   <p class="text-r">WHAT WE DO</p>
                 </div>
                 <div class="pt-1">
-                  <P class="text-big-g">We Help to Website Growth With Next Level Visitor</P>
+                  <p class="text-big-g">We Help to Website Growth With Next Level Visitor</p>
                 </div>
                 <div class="pt-2">
-                  <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                  <p class="text-g">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                 </div>
                 <div class="mb-5">
                   <div class="d-flex justify-content-between">
-                    <h4 >Digital Marketing & SEO</h4>
-                    <h4 >95%</h4>
+                    <h4 class="text-g">Digital Marketing &amp; SEO</h4>
+                    <h4 class="text-g">95%</h4>
                   </div>
                   <div class="progress" style="height: 3px;">
-                    <div class="progress-bar" role="progressbar" style="width: 95%; background-color: rgb(188, 28, 44);" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" style="width: 95%; background-color: rgb(205, 41, 59);" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -315,8 +315,8 @@
                     <div class="mb-3">
                       <div id="headingOne">
                         <h2 class="mb-0">
-                          <a  type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                            <div class="btn btn-lg" style="background-color: rgb(188, 28, 44);"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
+                          <a class="" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            <div class="btn btn-lg" style="background-color: rgb(205, 41, 59);"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
                             <span class="card-link" style="font-size: 18px;">Social Media Optimization</span>
                           </a>
                         </h2>
@@ -333,8 +333,8 @@
                     <div class="mb-3">
                       <div id="headingTwo">
                         <h2 class="mb-0">
-                          <a  type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <div class="btn btn-lg" style="background-color: rgb(188, 28, 44);"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
+                          <a class="" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <div class="btn btn-lg" style="background-color: #290390;"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
                             <span class="card-link" style="font-size: 18px;">Content Generation</span>
                           </a>
                         </h2>
@@ -347,12 +347,12 @@
                           commodo consequat.
                         </div>
                       </div>
-                    </div >
-                    <div >
+                    </div>
+                    <div>
                       <div id="headingThree">
                         <h2 class="mb-0">
                           <a type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <div class="btn btn-lg" style="background-color: rgb(188, 28, 44);"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
+                            <div class="btn btn-lg bg-primary"><i class="fa fa-plus text-w" aria-hidden="true"></i></div>
                             <span class="card-link" style="font-size: 18px;">Pay Per Click Services</span>
                           </a>
                         </h2>
@@ -381,15 +381,15 @@
         <div class="container-fluid">
           <div class="text-left text-md-center mt-4">
             <p class="text-r">SERVICES</p>
-            <P class="text-big-g mt-5">Let’s Check Our Services</P>
-            <P class=" mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</P>
+            <p class="text-big-g mt-5">Let’s Check Our Services</p>
+            <p class="text-g mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
           </div>
         </div>
         <div class="container">
           <div class="row">
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-bar-chart fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -398,7 +398,7 @@
                   <p class="text-r text-bold">Digital Marketing</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -412,7 +412,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-globe fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -421,7 +421,7 @@
                   <p class="text-r text-bold">Web Development</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -435,7 +435,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-camera fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -444,7 +444,7 @@
                   <p class="text-r text-bold">Branding</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -458,7 +458,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-paint-brush fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -467,7 +467,7 @@
                   <p class="text-r text-bold">Design</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -481,7 +481,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-cogs fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -490,7 +490,7 @@
                   <p class="text-r text-bold">SEO Optimization</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -504,7 +504,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
               <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                <div  class="d-flex mt-4 ml-3">
+                <div class="d-flex mt-4 ml-3">
                   <div class="mt-3 cirle-2 d-flex justify-content-center">
                     <i class="fa fa-print fa-3x m-4" aria-hidden="true"></i>
                   </div>
@@ -513,7 +513,7 @@
                   <p class="text-r text-bold">Digital / Offset Printing</p>
                 </div>
                 <div class="mt-4 ml-3">
-                  <p class=" text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                  <p class="text-g text-bold" style="line-height: 1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
                 <div class="btn d-flex mt-3 pb-4">
                   <div class="orange-box-6 text-center text-w">
@@ -532,7 +532,7 @@
     <!-- section 6 Services ends-->
     <!-- section 7 testimonial -->
     <section>
-      <div >
+      <div class="">
         <div class="container-fluid">
           <div class="row">
             <div class="col-lg-6 mb-5">
@@ -546,13 +546,13 @@
                         <p style="font-size: 50px; font-weight: 800; font-stretch: ultra-expanded;line-height: 1.2;">What Our Clients Are Saying?</p>
                       </div>
                       <div class="mt-4">
-                        <div >
+                        <div class="">
                           <div id="carouselExampleIndicators" class="carousel slide" data-interval="false">
                             <div class="carousel-inner">
                               <div class="carousel-item active">
-                                <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p class="text-g">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                 <div class="d-flex mt-4">
-                                  <img src="https://templates.envytheme.com/dibiz/default/assets/img/user1.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                  <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/user1.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
                                   <div class="ml-3">
                                     <p class="mb-0">John doe</p>
                                     <p>Web Developer</p>
@@ -562,7 +562,7 @@
                               <div class="carousel-item">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                 <div class="d-flex mt-4">
-                                  <img src="https://templates.envytheme.com/dibiz/default/assets/img/user2.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                  <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/user2.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
                                   <div class="ml-3">
                                     <p class="mb-0">Mariya Bell</p>
                                     <p>Python Developer</p>
@@ -572,7 +572,7 @@
                               <div class="carousel-item">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                 <div class="d-flex mt-4">
-                                  <img src="https://templates.envytheme.com/dibiz/default/assets/img/user3.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                  <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/user3.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
                                   <div class="ml-3">
                                     <p class="mb-0">Kiran Babu</p>
                                     <p>Full Stack Developer</p>
@@ -580,20 +580,20 @@
                                 </div>
                               </div>
                             </div>
-                            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"></a>
-                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"></a>
+                            <a class="carousel-control-prev" href="http://127.0.0.1:5500/index.html#carouselExampleIndicators" role="button" data-slide="prev"></a>
+                            <a class="carousel-control-next" href="http://127.0.0.1:5500/index.html#carouselExampleIndicators" role="button" data-slide="next"></a>
                             <div class="d-flex justify-content-left pl-0 mt-2 pt-5">
                               <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
-                                    <div style="width:20px; height:20px; border-radius:50%; background-color:rgb(188, 28, 44);">
+                                    <div style="width:20px; height:20px; border-radius:50%; background-color:rgb(205, 41, 59);">
                                     </div>
                                 </li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="1">
-                                    <div style="width:20px; height:20px; border-radius:50%; background-color:rgb(188, 28, 44);">
-                                </li>
+                                    <div style="width:20px; height:20px; border-radius:50%; background-color:#290390;">
+                                </div></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="2">
-                                    <div style="width:20px; height:20px; border-radius:50% ; background-color:rgb(188, 28, 44);">
-                                </li>
+                                    <div class="bg-primary" style="width:20px; height:20px; border-radius:50% ;">
+                                </div></li>
                               </ol>
                             </div>
                           </div>
@@ -615,33 +615,33 @@
         <div class="mt-5 mb-5">
           <div class="row">
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img6.png" alt="abc">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img6.png" alt="abc">
               </div>
             </div>
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img5.png" alt="abc1">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img5.png" alt="abc1">
               </div>
             </div>
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img4.png" alt="abc2">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img4.png" alt="abc2">
               </div>
             </div>
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img3.png" alt="abc3">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img3.png" alt="abc3">
               </div>
             </div>
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img2.png" alt="abc4">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img2.png" alt="abc4">
               </div>
             </div>
             <div class="col-6 col-md-4 col-lg-2">
-              <div class= m-4>
-                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img1.png" alt="abc5">
+              <div class="m-4">
+                <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/partner-img1.png" alt="abc5">
               </div>
             </div>
   
@@ -654,7 +654,7 @@
     <section>
       <div class="mb-5">
         <div class="container">
-          <div >
+          <div class="">
             <div class="row">
               <div class="col-12 col-md-12 col-lg-6">
                 <div>
@@ -674,19 +674,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img1.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img1.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -699,19 +699,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img2.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img2.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -724,19 +724,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img3.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img3.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -749,19 +749,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img4.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img4.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -774,19 +774,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img5.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img5.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -799,19 +799,19 @@
               </div>
               <div class="col-md-6 col-lg-3 p-0 m-0">
                 <div class="emp">
-                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img6.jpg" alt="abc" style="width: 100%;">
+                  <img class="emp-card-img" src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/team-img6.jpg" alt="abc" style="width: 100%;">
                   <div class="emp-card-content-1 d-flex justify-content-start">
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
                     </div>
                     <div class="emp-card-link m-2">
-                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                      <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                   </div>
                   <div class="emp-card-content-2 d-flex justify-content-center">
@@ -833,7 +833,7 @@
       <div class="bg-light">
         <div>
           <div class="container">
-            <div class="text-center mb-5">
+            <div class="text-left text-md-center mb-5">
               <div class="m-3">
                 <p class="text-r pt-5">PRICING</p>
               </div>
@@ -841,14 +841,14 @@
                 <p class="text-big-g">Our Flexible Pricing Plan</p>
               </div>
               <div class="m-3">
-                <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                <p class="text-g">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
               </div>
             </div>
             <div class="mt-3">
               <div class="row text-center">
                 <div class="col-md-4">
                   <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                    <div  class="d-flex justify-content-center mt-4 ml-3">
+                    <div class="d-flex justify-content-center mt-4 ml-3">
                       <div class="mt-3 cirle-2 bg-light d-flex justify-content-center">
                         <i class="fa fa-paper-plane fa-3x m-4" aria-hidden="true"></i>
                       </div>
@@ -857,8 +857,8 @@
                       <p class="text-r text-bold">Starter Plan</p>
                     </div>
                     <div class="mt-4 m-2">
-                      <p class=" text-bold" style="line-height: 2;">10GB Bandwidth Internet
-                        Business & Finance Analysing
+                      <p class="text-g text-bold" style="line-height: 2;">10GB Bandwidth Internet
+                        Business &amp; Finance Analysing
                         25 Social Media Reviews
                         Customer Managemet
                         24/7 Support
@@ -866,23 +866,23 @@
                     </div>
                     <div class="ml-3">
                       <p class="text-big-g pt-2">$49.99</p>
-                      <p >Per Month</p>
+                      <p class="text-g">Per Month</p>
                     </div>
                     <div class="btn d-flex justify-content-center mt-4 pb-4">
-                        <div class="orange-box-8 text-center text-w">
-                          <div class="d-flex justify-content-center" style="align-items: center;" >
+                        <div class="orange-box-8 text-center text-w" style="background-color: #290390;">
+                          <div class="d-flex justify-content-center" style="align-items: center;">
                             <div>
                               <p class="text-w pt-2">Book Now</p>
                             </div>
                           </div>
                         </div>
-                      </a>
+                      
                     </div>
                   </div>
                 </div> 
                 <div class="col-md-4">
                   <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                    <div  class="d-flex justify-content-center mt-4 ml-3">
+                    <div class="d-flex justify-content-center mt-4 ml-3">
                       <div class="mt-3 cirle-2 bg-light d-flex justify-content-center">
                         <i class="fa fa-puzzle-piece fa-3x m-4" aria-hidden="true"></i>
                       </div>
@@ -891,8 +891,8 @@
                       <p class="text-r text-bold">Advance Plan</p>
                     </div>
                     <div class="mt-4 m-2">
-                      <p class=" text-bold" style="line-height: 2;">10GB Bandwidth Internet
-                        Business & Finance Analysing
+                      <p class="text-g text-bold" style="line-height: 2;">10GB Bandwidth Internet
+                        Business &amp; Finance Analysing
                         25 Social Media Reviews
                         Customer Managemet
                         24/7 Support
@@ -900,23 +900,23 @@
                     </div>
                     <div class="ml-3">
                       <p class="text-big-g pt-2">$49.99</p>
-                      <p >Per Month</p>
+                      <p class="text-g">Per Month</p>
                     </div>
                     <div class="btn d-flex justify-content-center mt-4 pb-4">
                         <div class="orange-box-8 text-center text-w">
-                          <div class="d-flex justify-content-center" style="align-items: center;" >
+                          <div class="d-flex justify-content-center" style="align-items: center;">
                             <div>
                               <p class="text-w pt-2">Book Now</p>
                             </div>
                           </div>
                         </div>
-                      </a>
+                      
                     </div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="feature-s mb-5 mt-5" style="width: 95%;">
-                    <div  class="d-flex justify-content-center mt-4 ml-3">
+                    <div class="d-flex justify-content-center mt-4 ml-3">
                       <div class="mt-3 cirle-2 bg-light d-flex justify-content-center">
                         <i class="fa fa-diamond fa-3x m-4" aria-hidden="true"></i>
                       </div>
@@ -925,8 +925,8 @@
                       <p class="text-r text-bold">Premium Plan</p>
                     </div>
                     <div class="mt-4 m-2">
-                      <p class=" text-bold" style="line-height: 2;">10GB Bandwidth Internet
-                        Business & Finance Analysing
+                      <p class="text-g text-bold" style="line-height: 2;">10GB Bandwidth Internet
+                        Business &amp; Finance Analysing
                         25 Social Media Reviews
                         Customer Managemet
                         24/7 Support
@@ -934,17 +934,17 @@
                     </div>
                     <div class="ml-3">
                       <p class="text-big-g pt-2">$49.99</p>
-                      <p >Per Month</p>
+                      <p class="text-g">Per Month</p>
                     </div>
                     <div class="btn d-flex justify-content-center mt-4 pb-4">
-                        <div class="orange-box-8 text-center text-w">
-                          <div class="d-flex justify-content-center" style="align-items: center;" >
+                        <div class="orange-box-8 text-center text-w bg-primary">
+                          <div class="d-flex justify-content-center" style="align-items: center;">
                             <div>
                               <p class="text-w pt-2">Book Now</p>
                             </div>
                           </div>
                         </div>
-                      </a>
+                      
                     </div>
                   </div>
                 </div>
@@ -967,7 +967,7 @@
               <p class="text-big-g">Subscribe To Our Newsletter</p>
             </div>
             <div class="m-3">
-              <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p class="text-g">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             <div>
               <form>
@@ -975,7 +975,7 @@
                   <div class="form-group mt-3">
                     <input type="email" class="form-control border-right-0 mr-0 pr-0" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" style="width:100%;">
                   </div>
-                  <div class="btn orange-box-9 text-center ml-0 pl-0" style="background-color: rgb(188, 28, 44);">
+                  <div class="btn orange-box-9 text-center ml-0 pl-0" style="background-color: rgb(205, 41, 59);">
                     <p class="text-w">Subscribe Now</p>
                   </div>
                 </div>
@@ -991,29 +991,29 @@
     <!-- section 11 Kites updates-->
     <!-- section 12 footer -->
     <section>
-      <div class="footer mt-5" style="background-color: rgb(0, 0, 0);">
+      <div class="footer mt-5">
         <div class="container">
           <div class="pt-5">
-            <div class="row text-w">
+            <div class="row text-g">
               <div class="col-md-5">
                 <div>
-                  <img src="http://kitesmarketing.com/wp-content/uploads/2017/02/kiteslogo-e1557900540535.png" alt="Logo">
+                  <img src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/kiteslogo-e1557900540535.png" alt="Logo">
                 </div>
                 <div class="m-4">
                   <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
                 </div>
                 <div class="d-flex ml-4">
                   <div class="footer-social-icon  mt-2 mr-2">
-                    <a href="#"><i class="text-w fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-facebook" aria-hidden="true" style="color: rgb(205, 41, 59);"></i></a>
                   </div>
                   <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w  fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-twitter" aria-hidden="true" style="color: rgb(205, 41, 59);"></i></a>
                   </div>
                   <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w  fa fa-instagram" aria-hidden="true"></i></a>
+                    <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-instagram" aria-hidden="true" style="color: rgb(205, 41, 59);"></i></a>
                   </div>
                   <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w fa fa-linkedin" aria-hidden="true"></i></a>
+                    <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-linkedin" aria-hidden="true" style="color: rgb(205, 41, 59);"></i></a>
                   </div>
                 </div>
               </div>
@@ -1023,10 +1023,10 @@
                 </div>
                 <div class="mt-3">
                   <ul class="list-unstyled">
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Home</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">About</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Services</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Projects</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Home</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">About</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Services</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Projects</a></li>
                   </ul>
                 </div>
               </div>
@@ -1036,10 +1036,10 @@
                 </div>
                 <div class="mt-3">
                   <ul class="list-unstyled">
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Our Team</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Contact Us</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">FAQ</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Blog</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Our Team</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Contact Us</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">FAQ</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="http://127.0.0.1:5500/index.html#">Blog</a></li>
                   </ul>
                 </div>
               </div>
@@ -1050,34 +1050,34 @@
                 <div class="ml-4 ml-md-0 mt-3">
                   <div class="d-flex">
                     <div>
-                      <i class="fa fa-map-marker" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      <i class="fa fa-map-marker" aria-hidden="true" style="color: rgb(205, 41, 59);"></i>
                     </div>
                     <div class="ml-2">
-                      <p>Office 324J, Building D1 - Ajman - United Arab Emirates</p>
+                      <p class="text-g">Office 324J, Building D1 - Ajman - United Arab Emirates</p>
                     </div>
                   </div>
                   <div class="d-flex">
                     <div>
-                      <i class="fa fa-volume-control-phone" aria-hidden="true" style="color: rgb(188, 28, 44); transform: rotate(-40deg);"></i>
+                      <i class="fa fa-volume-control-phone" aria-hidden="true" style="color: rgb(205, 41, 59); transform: rotate(-40deg);"></i>
                     </div>
                     <div class="ml-2">
-                      <p>+971 56 828 5445</p>
+                      <p class="text-g">+971 56 828 5445</p>
                     </div>
                   </div>
                   <div class="d-flex">
                     <div>
-                      <i class="fa fa-envelope" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      <i class="fa fa-envelope" aria-hidden="true" style="color: rgb(205, 41, 59);"></i>
                     </div>
                     <div class="ml-2">
-                      <p>kites@kitesmarketing.com</p>
+                      <p class="text-g">kites@kitesmarketing.com</p>
                     </div>
                   </div>
                   <div class="d-flex">
                     <div>
-                      <i class="fa fa-photo" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      <i class="fa fa-photo" aria-hidden="true" style="color: rgb(205, 41, 59);"></i>
                     </div>
                     <div class="ml-2">
-                      <p>+971 56 828 5445</p>
+                      <p class="text-g">+971 56 828 5445</p>
                     </div>
                   </div>
                 </div>
@@ -1087,18 +1087,18 @@
               <div class="mt-5 pt-5">
                 <div class="row">
                   <div class="col text-center text-md-left">
-                    <p class="text-w">@ All rights reserved @ <span class="text-r">Kites Marketing Solutions FZE</span></p>
+                    <p class="text-g">@ All rights reserved @ <span class="text-r">Kites Marketing Solutions FZE</span></p>
                   </div>
                   <div class="col-md-auto">
                     <div class="d-flex justify-content-center justify-content-md-right">
                       <div>
-                        <a href="#">Privacy Policy</a>
+                        <a href="http://127.0.0.1:5500/index.html#">Privacy Policy</a>
                       </div>
                       <div class="ml-2 mr-2">
                         <p style="font-weight: 900;">|</p>
                       </div>
                       <div>
-                        <a href="#">Terms and Conditions</a>
+                        <a href="http://127.0.0.1:5500/index.html#">Terms and Conditions</a>
                       </div>
                     </div>
                   </div>
@@ -1111,8 +1111,45 @@
     </section>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-  </body>
-</html>
+    <script src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/jquery-3.5.1.slim.min.js.download" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/popper.min.js.download" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="./Web designing company in Dubai _ Make your website in 2 days _ Kites_files/bootstrap.min.js.download" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body></html>
