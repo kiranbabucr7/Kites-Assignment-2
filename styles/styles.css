@@ -171,6 +171,11 @@ a:hover {
     font-stretch: ultra-expanded;
     line-height: 1.2;
 }
+/* heading  */
+.sub-heading-1{
+    font-size:  25px;
+    font-weight: 800; 
+}
 /* utils */
 .text-big-g{
     font-size: 50px; 
@@ -281,4 +286,27 @@ a:hover {
         font-size: 30px;
         
     }
+    .contact-main-box{
+        max-width: 60px;
+    }  
+}
+
+
+/* contact styles */
+.contact-main-box{
+    background-color: rgb(188, 28, 44);
+    min-width: 60px;
+    max-width: 100px;
+    height: 70px;
+    border-radius: 10px;
+}   
+.contact-img{
+    min-height: 600px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/contact.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.map-contact{
+    background-color: black;
 }

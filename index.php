@@ -19,65 +19,9 @@
   </head>
   <body>
     
-    <!-- Navigation Bar -->
-      
-    <nav class="navbar navbar-expand-md navbar-fixed-top">
-      <div class="logo ml-lg-3">
-        <img class="pl-lg-5" src="http://kitesmarketing.com/wp-content/uploads/2017/02/kiteslogo-e1557900540535.png" alt="Logo">
-      </div>
-      <!-- Toggler/collapsibe Button -->
-      <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse ml-lg-5 mr-lg-4" id="collapsibleNavbar">
-        <ul class="main-nav navbar-nav ml-md-auto pr-lg-4">
-          <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Home</a>
-          </li>
-          <!-- Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="#" id="navbardrop" data-toggle="dropdown">
-              Services
-            </a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Digital Marketing</a>
-              <a class="dropdown-item" href="#">Web Development</a>
-              <a class="dropdown-item" href="#">Design</a>
-              <a class="dropdown-item" href="#">SEO Optimization</a>
-              <a class="dropdown-item" href="#">Digital / Offset Printing</a>
-              <a class="dropdown-item" href="#">Branding</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">About Us</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Contact Us</a>
-          </li>
-        </ul>
-        <div class="d-flex mr-lg-5">
-          <button class="navbar-toggler nav-toggle1" type="button" data-toggle="collapse" data-target="#collapsibleNavbar1">
-            <i class="fa fa-ellipsis-h"></i>
-          </button>
-          <div class="collapse navbar-collapse mr-lg-5" id="collapsibleNavbar1">
-            <div class="nav-orange-box orange-box d-flex mr-auto float-right">
-              <div class="orange-box-1"></div>
-              <div class="orange-box-2">
-                <a href="#" class="fa fa fa-search text-i-w mt-2"></a>
-              </div>
-              <div class="orange-box-3">
-                <div class="h-line1 mt-2 ml-2"></div>
-              </div>
-              <div class="orange-box-2 text-right">
-                <a href="#" class="fa fa-bars text-i-w mt-2"></a>
-              </div>
-              <div class="orange-box-4"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </nav>
-    <!-- Navigation Bar ends-->
+    <!--Header-->
+    <?php include 'header.php';?>
+    <!-- Header ends-->
 
     <!-- section2 Intro-->
     <section>
@@ -280,7 +224,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>  
     </section>
     <!-- section 4 about section ends-->
     <!-- section5 What we do-->
@@ -957,9 +901,9 @@
     <!-- section 10 pricing ends-->
     <!-- section 11 Kites updates-->
     <section>
-      <div>
+      <div class = "mb-5">
         <div class="contanier">
-          <div class="text-center mb-5">
+          <div class="text-center mb-5 pb-5">
             <div class="m-3">
               <p class="text-r pt-5">KITES UPDATES</p>
             </div>
@@ -990,125 +934,7 @@
     </section>
     <!-- section 11 Kites updates-->
     <!-- section 12 footer -->
-    <section>
-      <div class="footer mt-5" style="background-color: rgb(0, 0, 0);">
-        <div class="container">
-          <div class="pt-5">
-            <div class="row text-w text-center text-md-left">
-              <div class="col-md-5">
-                <div>
-                  <img src="http://kitesmarketing.com/wp-content/uploads/2017/02/kiteslogo-e1557900540535.png" alt="Logo">
-                </div>
-                <div class="m-4">
-                  <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-                </div>
-                <div class="d-flex justify-content-center justify-content-md-start ml-4">
-                  <div class="footer-social-icon  mt-2 mr-2">
-                    <a href="#"><i class="text-w fa fa-facebook" aria-hidden="true"></i></a>
-                  </div>
-                  <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w  fa fa-twitter" aria-hidden="true"></i></a>
-                  </div>
-                  <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w  fa fa-instagram" aria-hidden="true"></i></a>
-                  </div>
-                  <div class="footer-social-icon m-2">
-                    <a href="#"><i class="text-w fa fa-linkedin" aria-hidden="true"></i></a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-2">
-                <div class="ml-4 ml-md-0 mt-5 mt-md-0">
-                  <p class="text-r">Explore</p>
-                </div>
-                <div class="mt-3">
-                  <ul class="list-unstyled">
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Home</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">About</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Services</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Projects</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-2">
-                <div class="ml-4 ml-md-0 mt-2 mt-md-0">
-                  <p class="text-r">Resources</p>
-                </div>
-                <div class="mt-3">
-                  <ul class="list-unstyled">
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Our Team</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Contact Us</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">FAQ</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Blog</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-3">
-                <div class="ml-4 ml-md-0 mt-2 mt-md-0">
-                  <p class="text-r">Address</p>
-                </div>
-                <div class="ml-4 ml-md-0 mt-3">
-                  <div class="d-flex justify-content-center justify-content-md-start">
-                    <div>
-                      <i class="fa fa-map-marker" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
-                    </div>
-                    <div class="ml-2">
-                      <p>Office 324J, Building D1 - Ajman - United Arab Emirates</p>
-                    </div>
-                  </div>
-                  <div class="d-flex justify-content-center justify-content-md-start">
-                    <div>
-                      <i class="fa fa-volume-control-phone" aria-hidden="true" style="color: rgb(188, 28, 44); transform: rotate(-40deg);"></i>
-                    </div>
-                    <div class="ml-2">
-                      <p>+971 56 828 5445</p>
-                    </div>
-                  </div>
-                  <div class="d-flex justify-content-center justify-content-md-start">
-                    <div>
-                      <i class="fa fa-envelope" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
-                    </div>
-                    <div class="ml-2">
-                      <p>kites@kitesmarketing.com</p>
-                    </div>
-                  </div>
-                  <div class="d-flex justify-content-center justify-content-md-start">
-                    <div>
-                      <i class="fa fa-photo" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
-                    </div>
-                    <div class="ml-2">
-                      <p>+971 56 828 5445</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="mt-5">
-              <div class="mt-5 pt-5">
-                <div class="row">
-                  <div class="col text-center text-md-left">
-                    <p class="text-w">@ All rights reserved @ <span class="text-r">Kites Marketing Solutions FZE</span></p>
-                  </div>
-                  <div class="col-md-auto">
-                    <div class="d-flex justify-content-center justify-content-md-right">
-                      <div>
-                        <a href="#">Privacy Policy</a>
-                      </div>
-                      <div class="ml-2 mr-2">
-                        <p style="font-weight: 900;">|</p>
-                      </div>
-                      <div>
-                        <a href="#">Terms and Conditions</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <?php include 'footer.php';?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
