@@ -256,6 +256,12 @@ a:hover {
     width: 160px;
     max-height: 38px;
 }
+.orange-box-10{
+    background-color: rgb(188, 28, 44);
+    width: 100%;
+    min-height: 40px;
+    border-radius: 5px;
+}
 .h-line1{
     background-color: #ffffff81;
     height: 30px;
@@ -278,6 +284,15 @@ a:hover {
     background-color: rgb(255, 255, 255);
     border-radius: 50%;
 }
+.square-1{
+    min-height: 25px;
+    min-height: 26px;
+    width: 25px;
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    text-align: center;
+
+}
 
 
 /* mobile view styles  */
@@ -289,6 +304,16 @@ a:hover {
     .contact-main-box{
         max-width: 60px;
     }  
+}
+@media screen and (max-width: 1200px) {
+    .orange-box-10{
+          padding: 1px;
+          line-height: .9;
+    }
+    .square-1 i{
+        padding-top: 5px;
+    }
+
 }
 
 
@@ -310,3 +335,27 @@ a:hover {
 .map-contact{
     background-color: black;
 }
+/* about styles  */
+.about-img-1{
+    min-height: 300px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/history/history-img1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* services styles  */
+.services-img-1{
+    min-height: 500px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/services/services-img1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.services-img-2{
+    min-height: 500px;
+    background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/services/services-img2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

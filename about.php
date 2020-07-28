@@ -91,16 +91,365 @@
           <h1 class="main-heading">History Begins In 2010</h1>
         </div>
       </div>
+      <div class="mt-3 mt-md-5">
+        <div class="container">
+          <div class="mt-3 mb-3 pt-3">
+            <div class="row">
+              <div class="col-md-8">
+                <div class="row">
+                  <div class="col-md-4 mt-md-5 pt-md-5 pr-md-5">
+                    <div class="row d-flex justify-content-center justify-content-md-end">
+                      <div class="text-center text-md-right">
+                        <p class="p-0 m-0">2010</p>
+                        <p class="p-0 m-0">February 20 th</p>
+                      </div>
+                      <div class="text-center text-md-right mt-2 ml-2">
+                        <i class="fa fa-dot-circle-o" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      </div>
+                    </div> 
+                  </div>
+                  <div class="col-md-8 text-center text-md-left text-justify mt-md-3 pt-md-3">
+                      <h1>Founded</h1>
+                      <P>Real innovations and a positive customer experience are the heart of successful communication. Lorem ipsum dolor sit amet, sectetur adipiscing elit, tempor incididunt ut labore et dolore magna.</P>
+                  </div>
+                </div>
+              </div>
+              <div class="about-img-1 col-md-4 mt-3 mt-md-0"></div>
+            </div>
+          </div>
+          <div class="mt-3 mb-3 pt-3" >
+            <div class="row">
+              <div class="col-md-8">
+                <div class="row">
+                  <div class="col-md-4 mt-md-5 pt-md-5 pr-md-5">
+                    <div class="row d-flex justify-content-center justify-content-md-end">
+                      <div class="text-center text-md-right">
+                        <p class="p-0 m-0">2010</p>
+                        <p class="p-0 m-0">February 20 th</p>
+                      </div>
+                      <div class="text-center text-md-right mt-2 ml-2">
+                        <i class="fa fa-dot-circle-o" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-8 text-center text-md-left text-justify mt-md-3 pt-md-3">
+                      <h1>Global Success</h1>
+                      <P>Real innovations and a positive customer experience are the heart of successful communication. Lorem ipsum dolor sit amet, sectetur adipiscing elit, tempor incididunt ut labore et dolore magna.</P>
+                  </div>
+                </div>
+              </div>
+              <div class="about-img-1 col-md-4 mt-3 mt-md-0" style="background-image: url('https://templates.envytheme.com/dibiz/default/assets/img/history/history-img2.jpg')"></div>
+            </div>
+          </div>
+          <div class="mt-3 mb-3 pt-3" >
+            <div class="row">
+              <div class="col-md-8">
+                <div class="row">
+                  <div class="col-md-4 mt-md-5 pt-md-5 pr-md-5">
+                    <div class="row d-flex justify-content-center justify-content-md-end">
+                      <div class="text-center text-md-right">
+                        <p class="p-0 m-0">2010</p>
+                        <p class="p-0 m-0">February 20 th</p>
+                      </div>
+                      <div class="text-center text-md-right mt-2 ml-2">
+                        <i class="fa fa-dot-circle-o" aria-hidden="true" style="color: rgb(188, 28, 44);"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-8 text-center text-md-left text-justify mt-md-3 pt-md-3">
+                      <h1>Founded Data Office</h1>
+                      <P>Real innovations and a positive customer experience are the heart of successful communication. Lorem ipsum dolor sit amet, sectetur adipiscing elit, tempor incididunt ut labore et dolore magna.</P>
+                  </div>
+                </div>
+              </div>
+              <div class="about-img-1 col-md-4 mt-3 mt-md-0" style="background-image: url('https://templates.envytheme.com/dibiz/default/assets/img/history/history-img3.jpg')"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mt-3 mt-md-5 mb-5">
+        <div class="container">
+          <div >
+            <div class="row">
+              <div class="col-12 col-md-12 col-lg-6 text-center text-md-left">
+                <div>
+                  <p class="text-r">OUR TEAM</p>
+                </div>
+                <div class="mt-2">
+                  <h1 class="main-heading">We Help to Acheive Your Business Goal</h1>
+                </div>
+                <div class="btn d-flex justify-content-center justify-content-md-start mt-3 pl-0 pb-4 mb-3">
+                  <div class="orange-box-6 text-center text-w">
+                    <div class="pt-2">
+                      <i class="fa fa-arrow-right font-weight-bolder" aria-hidden="true"></i>
+                    </div>
+                  </div>
+                  <p class="text-r m-2"> Leran More</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img1.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">CEO</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img2.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">CEO</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img3.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">CFO</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img4.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">CEO</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img5.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">HR Manager</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-3 p-0 m-0">
+                <div class="emp">
+                  <img class="emp-card-img" src="https://templates.envytheme.com/dibiz/default/assets/img/team/team-img6.jpg" alt="abc" style="width: 100%;">
+                  <div class="emp-card-content-1 d-flex justify-content-start">
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-instagram " aria-hidden="true"></i></a>
+                    </div>
+                    <div class="emp-card-link m-2">
+                      <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+                  </div>
+                  <div class="emp-card-content-2 d-flex justify-content-center">
+                    <div class="ml-3">
+                      <div class="emp-card-text-1 text-big-g-1">John Doe</div>
+                      <div class="emp-card-text-2 text-r pt-1">Web Developer</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="container">
-        <div class="row">
-          <div class="col-md-2">
-            hi
+        <div class="mt-5 mb-5">
+          <div class="row">
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img6.png" alt="abc">
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img5.png" alt="abc1">
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img4.png" alt="abc2">
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img3.png" alt="abc3">
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img2.png" alt="abc4">
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+              <div class= m-4>
+                <img src="https://templates.envytheme.com/dibiz/default/assets/img/partner/partner-img1.png" alt="abc5">
+              </div>
+            </div>
+  
           </div>
-          <div class="col-md-6">
-            hi
-          </div>
-          <div class="col-md-4">
-            hi
+        </div>
+      </div>
+      <div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-6 mb-5">
+              <div class="mt-md-2 pt-md-5 ml-md-5">
+                <div class="mt-md-2 ml-md-5">
+                  <div class="pr-md-4"> 
+                    <div class="mt-3">
+                      <p class="text-r text-center text-md-left">TESTIMONIALS</p>
+                    </div>
+                    <div class="mt-2">
+                      <h1 class="main-heading text-center text-md-left">What Our Clients Are Saying?</h1>
+                    </div>
+                    <div class="mt-4">
+                      <div >
+                        <div id="carouselExampleIndicators" class="carousel slide" data-interval="false">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                              <div class="d-flex mt-4">
+                                <img src="https://templates.envytheme.com/dibiz/default/assets/img/user1.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                <div class="ml-3">
+                                  <p class="mb-0">John doe</p>
+                                  <p>Web Developer</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="carousel-item">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                              <div class="d-flex mt-4">
+                                <img src="https://templates.envytheme.com/dibiz/default/assets/img/user2.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                <div class="ml-3">
+                                  <p class="mb-0">Mariya Bell</p>
+                                  <p>Python Developer</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="carousel-item">
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                              <div class="d-flex mt-4">
+                                <img src="https://templates.envytheme.com/dibiz/default/assets/img/user3.jpg" alt="John doe" style="width: 70px; height: 70px; border-radius: 50%;">
+                                <div class="ml-3">
+                                  <p class="mb-0">Kiran Babu</p>
+                                  <p>Full Stack Developer</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"></a>
+                          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"></a>
+                          <div class="d-flex justify-content-left pl-0 mt-2 pt-5">
+                            <ol class="carousel-indicators">
+                              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
+                                  <div style="width:20px; height:20px; border-radius:50%; background-color:rgb(188, 28, 44);">
+                                  </div>
+                              </li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="1">
+                                  <div style="width:20px; height:20px; border-radius:50%; background-color:rgb(188, 28, 44);">
+                              </li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="2">
+                                  <div style="width:20px; height:20px; border-radius:50% ; background-color:rgb(188, 28, 44);">
+                              </li>
+                            </ol>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 s7-banner"></div>
           </div>
         </div>
       </div>
