@@ -51,9 +51,9 @@
                 </div>
                 <div class="mt-3">
                   <ul class="list-unstyled">
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Home</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">About</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Services</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="index.php">Home</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="about.php">About</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="services.php">Services</a></li>
                     <li class="ml-4 ml-md-0 mt-3"><a href="#">Projects</a></li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
                 <div class="mt-3">
                   <ul class="list-unstyled">
                     <li class="ml-4 ml-md-0 mt-3"><a href="#">Our Team</a></li>
-                    <li class="ml-4 ml-md-0 mt-3"><a href="#">Contact Us</a></li>
+                    <li class="ml-4 ml-md-0 mt-3"><a href="contact.php">Contact Us</a></li>
                     <li class="ml-4 ml-md-0 mt-3"><a href="#">FAQ</a></li>
                     <li class="ml-4 ml-md-0 mt-3"><a href="#">Blog</a></li>
                   </ul>

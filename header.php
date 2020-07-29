@@ -29,27 +29,27 @@
       <div class="collapse navbar-collapse ml-lg-5 mr-lg-4" id="collapsibleNavbar">
         <ul class="main-nav navbar-nav ml-md-auto pr-lg-4">
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Home</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="index.php">Home</a>
           </li>
           <!-- Dropdown -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="#" id="navbardrop" data-toggle="dropdown">
+            <a class="nav-link dropdown-toggle pl-lg-4 pr-lg-4" href="services.php" id="navbardrop" data-toggle="dropdown">
               Services
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Digital Marketing</a>
-              <a class="dropdown-item" href="#">Web Development</a>
-              <a class="dropdown-item" href="#">Design</a>
-              <a class="dropdown-item" href="#">SEO Optimization</a>
-              <a class="dropdown-item" href="#">Digital / Offset Printing</a>
-              <a class="dropdown-item" href="#">Branding</a>
+              <a class="dropdown-item" href="services.php">Digital Marketing</a>
+              <a class="dropdown-item" href="services.php">Web Development</a>
+              <a class="dropdown-item" href="services.php">Design</a>
+              <a class="dropdown-item" href="services.php">SEO Optimization</a>
+              <a class="dropdown-item" href="services.php">Digital / Offset Printing</a>
+              <a class="dropdown-item" href="services.php">Branding</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">About Us</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="about.php">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pl-lg-4 pr-lg-4" href="#">Contact Us</a>
+            <a class="nav-link pl-lg-4 pr-lg-4" href="contact.php">Contact Us</a>
           </li>
         </ul>
         <div class="d-flex mr-lg-5">

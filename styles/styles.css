@@ -337,7 +337,7 @@ a:hover {
 }
 /* about styles  */
 .about-img-1{
-    min-height: 300px;
+    min-height: 500px;
     background-image: url("https://templates.envytheme.com/dibiz/default/assets/img/history/history-img1.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -358,4 +358,6 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
 
